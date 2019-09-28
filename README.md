@@ -10,7 +10,7 @@ This Lap will allow you to install httpd apache server inside Centos Machine
 
 # Hello World Application
 
-1. Go to the following directory `cd /var/www`
+1. Go to the following directory `cd /var/www/html`
 2. Create new file called `index.html` with the following content
 ```
 <html>
